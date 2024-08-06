@@ -1,6 +1,9 @@
 body {
     background-image: url("future.jpg");
-    background-size: cover;
+    background-size: 1920px 1080px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
